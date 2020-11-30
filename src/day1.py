@@ -23,7 +23,6 @@ def calculateFuelRequiredRecursive(mass):
         return 0
 
 
-
 def main():
     listOfMass = readFile("../resources/day1_input.txt")
 
