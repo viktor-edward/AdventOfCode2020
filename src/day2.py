@@ -43,11 +43,6 @@ def countLetters(letter, pw):
     return count
 
 
-def func2(data):
-    
-    return 0
-
-
 def main():
     data = readFile("../resources/day2_input.txt")
 
